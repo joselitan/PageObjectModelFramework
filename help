@@ -10,4 +10,5 @@ allure serve ./allurereports
 2. git add -A (all files are added to git)
 3. git commit -m "msg"
 4. git branch -M main
-5. git push -u origin main
+5. git remote add origin https://github.com/joselitan/PageObjectModelFramework.git
+6. git push -u origin main
